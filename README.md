@@ -1,10 +1,11 @@
 <p align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Satya%20Prakash&fontSize=40&fontAlignY=35&desc=A%20Creative%20Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50" 
+    src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=Satya%20Prakash&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50" 
     alt="Satya Prakash Header"
 />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Satya Prakash</h1>
 <h3 align="center">A passionate Data Analyst & Full-Stack Developer from India</h3>
