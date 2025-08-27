@@ -23,10 +23,10 @@
 - 🔭 I’m currently working on **Placify – AI-Powered Career Guidance Platform**  
 - 🌱 I’m currently learning **Advanced Data Analytics, Cloud & ERP Systems**  
 - 👯 I’m looking to collaborate on **AI + Web development projects**  
-- 👨‍💻 My portfolio: *coming soon...*  
+- 👨‍💻 With my keen interest in Data Analysis.
 - 📫 Reach me at: **satya.prakashh83@gmail.com**  
-- 📄 [Resume](https://drive.google.com/file/d/1OUjhGr3dPeQKWPzBAGCCV6UFWl0-Gnu2/view?usp=sharing)  
-- ⚡ Passionate about **Digital Transformation** and leveraging technology for **business automation & societal impact**  
+- 📄 [Resume](https://drive.google.com/file/d/1s02FpTZskgsLkbbw5coFBEv3KdSZIeIR/view?usp=sharing)  
+- ⚡ Skilled in Digital Transformation, Business Process Automation, and ERP Systems  
 
 ---
 
@@ -122,6 +122,3 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satya-83" alt="GitHub Trophies" /></a>
-</p>
